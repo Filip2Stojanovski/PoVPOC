@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "SharedComposeApp",
             url: "https://github.com/Filip2Stojanovski/PoVPOC/raw/main/SharedComposeApp.xcframework.zip",
-            checksum: "<PUT_YOUR_CHECKSUM_HERE>"
+            checksum: "475b424c6f8f6e92110acc3507513592b30336bea51759a86ccaf0aa7a76b433"
         )
     ]
 )
