@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SharedComposeApp",
-            url: "https://yourserver.com/SharedComposeApp.xcframework.zip",
+            url: "https://github.com/Filip2Stojanovski/PoVPOC/blob/main/SharedComposeApp.xcframework.zip",
             checksum: "475b424c6f8f6e92110acc3507513592b30336bea51759a86ccaf0aa7a76b433"
         )
     ]
