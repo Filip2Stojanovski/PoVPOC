@@ -1,6 +1,4 @@
-//
-// Created by Filip Stojanovski on 14.11.25.
-//
+// swift-tools-version: 5.9
 
 import PackageKit
 import Foundation
